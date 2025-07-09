@@ -7,3 +7,4 @@ As aulas não estão na ordem de criação e não na ordem criada automaticament
 pela plataforma do curso.
 
 Bons estudos.
+
